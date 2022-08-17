@@ -1,0 +1,26 @@
+export const INCREMENT_DATA = 'INCREMENT_DATA'
+export const DECREMENT_DATA = 'DECREMENT_DATA'
+
+export const GET_MEDICINES = "GET_MEDICINES"
+
+
+export const LOADING_MEDICINES = "LOADING_MEDICINES"
+export const ERROR_MEDICINES = "ERROR_MEDICINES"
+
+
+export const EMAIL_VARIFICATION ="EMAIL_VARIFICATION"
+export const AUTH_LOGIN = "AUTH_LOGIN"
+
+export const LOGIN_FORM = "LOGIN_FORM"
+export const LOGED_FORM = "LOGED_FORM"
+
+export const LOGOUT_USER = "LOGOUT_USER"
+export const LOGGEDOUT_USER = "LOGGEDOUT_USER"
+
+export const GOOGLE_LOGIN = "GOOGLE_LOGIN"
+
+export const FORGOT_PASSWORD = "FORGOT_PASSWORD"
+
+
+export const SET_ALERT = "SET_ALERT"
+export const RESET_ALERT = "RESET_ALERT"
